@@ -16,22 +16,33 @@ How is the district summary affected?
 How was school summary affected?
 There was a decrease in Thomas High School overall % Overall passing was by ***0.317688***. 
 
+
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Even though Thomas High Schools %Overall Passing was affected, they still remained at the second position in terms of top performing schools.
+<img width="988" alt="Screen Shot 2021-03-21 at 9 13 43 PM" src="https://user-images.githubusercontent.com/78401776/111928678-b616ce80-8a8a-11eb-9bd8-2a05b97d395e.png">
+
+
 
 How does replacing the ninth grade scores affect the following?
 
 ***Math and reading scores by grade?
--It affects it in that there is “Nan” at the 9th grade portion of both maths and reading scores.
+-It affects it in that there is “Nan” at the 9th grade portion of both maths and reading scores.***
+<img width="318" alt="Screen Shot 2021-03-19 at 9 51 29 PM" src="https://user-images.githubusercontent.com/78401776/111928342-afd42280-8a89-11eb-8411-a3088ffedc65.png">
+
+<img width="320" alt="Screen Shot 2021-03-19 at 9 51 17 PM" src="https://user-images.githubusercontent.com/78401776/111928357-b95d8a80-8a89-11eb-9d73-47e7585ccc44.png">
 
 ***Scores by school spending?
--There was a reduction in the $630 – 644 range
+-There was a reduction in the $630 – 644 range***
+<img width="843" alt="Screen Shot 2021-03-21 at 8 36 23 PM" src="https://user-images.githubusercontent.com/78401776/111928308-96cb7180-8a89-11eb-8b53-941502a04c31.png">
 
 ***Scores by school size?
--There was a reduction in the medium range (1000 – 2000)
+-There was a reduction in the medium range (1000 – 2000)***
+<img width="766" alt="Screen Shot 2021-03-21 at 8 36 10 PM" src="https://user-images.githubusercontent.com/78401776/111928378-cc705a80-8a89-11eb-9f45-358dce8fbdec.png">
 
 ***Scores by school type?
-There was a reduction in the Charter School type 
+There was a reduction in the Charter School type*** 
+<img width="752" alt="Screen Shot 2021-03-21 at 8 35 58 PM" src="https://user-images.githubusercontent.com/78401776/111928397-ddb96700-8a89-11eb-8063-3ad731c7f589.png">
 
 ### Summary of District Analysis
 
